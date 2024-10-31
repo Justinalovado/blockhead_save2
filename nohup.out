@@ -290,3 +290,29 @@
 2024-10-31 06:18:06.555 blockheads_server171[105455:105455] EDDY_SERVER - Player Disconnected JT
 2024-10-31 06:18:21.462 blockheads_server171[105455:105455] EDDY_SERVER - Client disconnected:5aa8fed9741d33c63868a87f1af05ab7
 2024-10-31 06:18:21.532 blockheads_server171[105455:105455] EDDY_SERVER - Player Disconnected EDDY
+2024-10-31 06:36:27.474 blockheads_server171[107679:107679] Loading world named "EDDY_SERVER" on port 15151 with id:c748942ceacf74a0923a51b25675d795
+2024-10-31 06:36:27.475 blockheads_server171[107679:107679] loading world with size:8192 expertMode:0
+2024-10-31 06:36:29.446 blockheads_server171[107679:107679] using seed:1726982606
+2024-10-31 06:36:29.446 blockheads_server171[107679:107679] save delay:20
+2024-10-31 06:36:29.451 blockheads_server171[107679:107679] World load complete.
+2024-10-31 06:36:36.741 blockheads_server171[107679:107679] EDDY_SERVER - Player Connected JT | 43.252.115.46 | cd4d776e159510e486116827b80d0368
+2024-10-31 06:37:48.058 blockheads_server171[107679:107679] EDDY_SERVER - Player Connected EDDY | 50.168.180.218 | 5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:34:34.910 blockheads_server171[107679:107679] EDDY_SERVER - Client disconnected:5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:34:34.969 blockheads_server171[107679:107679] EDDY_SERVER - Player Disconnected EDDY
+2024-10-31 07:34:39.156 blockheads_server171[107679:107679] EDDY_SERVER - Player Connected EDDY | 50.168.180.218 | 5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:42:14.805 blockheads_server171[107679:107679] EDDY_SERVER - Client disconnected:5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:42:14.843 blockheads_server171[107679:107679] EDDY_SERVER - Player Disconnected EDDY
+2024-10-31 07:42:20.280 blockheads_server171[107679:107679] EDDY_SERVER - Player Connected EDDY | 50.168.180.218 | 5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:43:11.647 blockheads_server171[107679:107679] EDDY_SERVER - Client disconnected:5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:43:11.707 blockheads_server171[107679:107679] EDDY_SERVER - Player Disconnected EDDY
+2024-10-31 07:43:11.736 blockheads_server171[107679:107679] EDDY_SERVER - Client disconnected:cd4d776e159510e486116827b80d0368
+2024-10-31 07:43:11.802 blockheads_server171[107679:107679] EDDY_SERVER - Player Disconnected JT
+2024-10-31 07:43:17.956 blockheads_server171[107679:107679] EDDY_SERVER - Player Connected EDDY | 50.168.180.218 | 5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:45:48.170 blockheads_server171[107679:107679] EDDY_SERVER - Client disconnected:5aa8fed9741d33c63868a87f1af05ab7
+2024-10-31 07:45:48.188 blockheads_server171[107679:107679] EDDY_SERVER - Player Disconnected EDDY
+2024-10-31 07:52:38.112 blockheads_server171[107679:107679] Exiting World.
+2024-10-31 07:52:38.296 blockheads_server171[107819:107819] Loading world named "EDDY_SERVER" on port 15151 with id:c748942ceacf74a0923a51b25675d795
+2024-10-31 07:52:38.297 blockheads_server171[107819:107819] loading world with size:8192 expertMode:0
+2024-10-31 07:52:43.339 blockheads_server171[107819:107819] using seed:1726982606
+2024-10-31 07:52:43.339 blockheads_server171[107819:107819] save delay:20
+2024-10-31 07:52:43.351 blockheads_server171[107819:107819] World load complete.
